@@ -1,0 +1,160 @@
+body{
+    background-color: #312783;
+}
+
+.fondo-morado{
+    background-color: #ae76b1;
+}
+
+.moradoclaro{
+    color: #312783
+}
+
+#marca{
+    font-family: Bouncy PERSONAL USE ONLY;
+    color: #312783;
+    font-size: 30px;
+}
+
+#menu a{
+    color: #312783;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#iconos-menu{
+    color: #312783;
+    font-size: 30px;
+}
+
+#iconos-menu a{
+    color:#312783
+}
+
+#bienvenida{
+    font-family: Bouncy PERSONAL USE ONLY;
+    color: #ae76b1;
+    margin-top: 50px;
+    font-size: 80px;
+}
+
+section{
+    margin-top: 50px;
+}
+
+.morado2{
+    color: #ae76b1;
+}
+
+.redondo{
+    border-radius: 300px;
+}
+
+
+.dosis-uniquifier {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#yo h1{
+    font-size: 55px;
+}
+
+#yo h3{
+    font-size: 35px;
+}
+
+#yo p{
+    font-size: 20px;
+}
+
+.iconos{
+    color: #312783;
+    font-size: 50px;
+}
+
+.cajita{
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+}
+
+.cajita2{
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+}
+
+
+.boton{
+    background-color: #ae76b1;
+    color: #312783;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 100px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.caja-grande{
+    background-color: #ae76b1;
+    color: #312783;
+    border-radius: 30px;
+    margin-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.caja-grande2{
+    background-color: #ae76b1;
+    color: #312783;
+    border-radius: 30px;
+    margin-left: 30px;
+    padding-top: 141px;
+    padding-bottom: 141px;
+}
+
+.iconos-grandes{
+    font-size: 50px;
+}
+
+footer{
+    background-color: #ae76b1;
+    color: #312783;
+    margin-top: 50px;
+    padding-top: 5px;
+}
+
+#iconos-footer{
+    color: #312783;
+    font-size: 30px;
+    margin-right: 5px;
+}
+
+footer a{
+    color: #312783;
+    text-decoration: none;
+}
+
+.bordes-redondos{
+    border-radius: 30px;
+}
+
+.card2{
+    background-color: #ae76b1;
+    color: #312783;
+    border-radius: 10px;
+}
+
+.texto-form{
+    font-size: 25px;
+    font-weight: 500;
+}
